@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\bin\Debug\AuthDB.mdf
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\bin\Debug\AuthDB_log.ldf
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\bin\Debug\ProjetChatBot.exe.config
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\bin\Debug\ProjetChatBot.exe
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\bin\Debug\ProjetChatBot.pdb
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\obj\Debug\ProjetChatBot.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\obj\Debug\ProjetChatBot.AddUser.resources
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\obj\Debug\ProjetChatBot.DashbordAdmin.resources
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\obj\Debug\ProjetChatBot.LogIn.resources
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\obj\Debug\ProjetChatBot.Properties.Resources.resources
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\obj\Debug\ProjetChatBot.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\obj\Debug\ProjetChatBot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\obj\Debug\ProjetChatBot.exe
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\obj\Debug\ProjetChatBot.pdb
+C:\Users\User\source\repos\ProjetChatBot\ProjetChatBot\obj\Debug\ProjetChatBot.DashbordUser.resources
